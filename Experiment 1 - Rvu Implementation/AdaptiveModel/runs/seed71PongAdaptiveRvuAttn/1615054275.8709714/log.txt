@@ -1,0 +1,61 @@
+epoch: 1, saved best model with score: -20.8,    test_score: -20.4
+epoch: 2, score: -20.2,    test_score: -20.6
+epoch: 3, score: -20.4,    test_score: -21.0
+epoch: 4, score: -19.4,    test_score: -20.4
+epoch: 5, score: -18.2,    test_score: -20.6
+epoch: 6, saved best model with score: -17.6,    test_score: -19.0
+epoch: 7, saved best model with score: -18.0,    test_score: -16.4
+epoch: 8, saved best model with score: -15.4,    test_score: -8.6
+epoch: 9, score: -8.8,    test_score: -9.4
+epoch: 10, saved best model with score: -10.6,    test_score: -1.2
+epoch: 11, saved best model with score: -2.6,    test_score: 5.8
+epoch: 12, saved best model with score: -1.2,    test_score: 13.6
+epoch: 13, score: -8.8,    test_score: 2.4
+epoch: 14, score: -20.0,    test_score: -18.8
+epoch: 15, score: -17.6,    test_score: -9.2
+epoch: 16, score: -19.2,    test_score: -5.6
+epoch: 17, score: -17.8,    test_score: -1.2
+epoch: 18, score: -12.6,    test_score: -5.8
+epoch: 19, score: -11.4,    test_score: -5.4
+epoch: 20, score: -7.0,    test_score: -1.4
+epoch: 21, score: -11.0,    test_score: -3.2
+epoch: 22, score: -19.2,    test_score: -16.8
+epoch: 23, score: -18.2,    test_score: -12.4
+epoch: 24, score: -13.6,    test_score: -6.0
+epoch: 25, score: -11.0,    test_score: -0.6
+epoch: 26, score: -4.0,    test_score: 11.2
+epoch: 27, score: -1.0,    test_score: 6.8
+epoch: 28, score: -10.2,    test_score: 1.6
+epoch: 29, score: -13.2,    test_score: -6.0
+epoch: 30, score: -14.2,    test_score: 5.8
+epoch: 31, score: -2.4,    test_score: 11.0
+epoch: 32, score: -0.6,    test_score: 10.6
+epoch: 33, saved best model with score: 3.6,    test_score: 14.8
+epoch: 34, saved best model with score: 6.6,    test_score: 15.4
+epoch: 35, score: 6.4,    test_score: 11.6
+epoch: 36, score: -7.0,    test_score: 2.2
+epoch: 37, score: -14.0,    test_score: 0.4
+epoch: 38, score: -12.8,    test_score: 9.6
+epoch: 39, saved best model with score: 9.0,    test_score: 21.0
+epoch: 40, score: 18.4,    test_score: 21.0
+epoch: 41, score: 14.8,    test_score: 20.4
+epoch: 42, score: -11.2,    test_score: 8.8
+epoch: 43, score: -18.2,    test_score: 13.6
+epoch: 44, score: -0.8,    test_score: 20.8
+epoch: 45, score: -1.8,    test_score: 20.2
+epoch: 46, score: -1.0,    test_score: 21.0
+epoch: 47, score: 16.4,    test_score: 21.0
+epoch: 48, score: 13.2,    test_score: 21.0
+epoch: 49, score: -2.2,    test_score: 18.8
+epoch: 50, score: -12.0,    test_score: -1.0
+epoch: 51, score: 3.4,    test_score: 14.2
+epoch: 52, score: 7.4,    test_score: 19.4
+epoch: 53, score: 8.6,    test_score: 20.2
+epoch: 54, score: 17.4,    test_score: 21.0
+epoch: 55, score: 12.0,    test_score: 21.0
+epoch: 56, score: 18.6,    test_score: 21.0
+epoch: 57, score: 4.8,    test_score: 13.8
+epoch: 58, score: 13.4,    test_score: 16.2
+epoch: 59, score: 13.8,    test_score: 14.2
+epoch: 60, score: 19.4,    test_score: 20.4
+---Execution Time = 10456.93 seconds---
