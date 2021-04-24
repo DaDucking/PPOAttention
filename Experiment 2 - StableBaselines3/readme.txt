@@ -4,7 +4,7 @@ Bash run2.sh bash file can change type of variables for testing models: Attentio
 
 variables:
 $seed
-$model
+$model [CAN(Cross Attending Network), CSAN(Channel-wise Self Attending Network), SAN(Self Attending Network)]
 $adaptivity
 
 python train.py --seed $seed --algo ppo --env "${game}NoFrameskip-v4" -tb "tensorboard file name" -f "model file name" --eval-freq 100000 -params policy_kwargs:"dict(features_extractor_class=CustomCNN,features_extractor_kwargs=dict(features_dim=512,attn_type=$model ,adaptive=$adaptivity),)" &
